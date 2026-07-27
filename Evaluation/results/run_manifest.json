@@ -1,0 +1,23 @@
+{
+  "evaluated_target_pairs": 54,
+  "expected_model_changes_sha256": "309737ce94e59b1555cc5a554fb792af2d2efc2cdee0c0c2dffc3f12766a78d4",
+  "generated_at": "2026-07-27T18:57:58+00:00",
+  "model": "gpt-5.6-luna",
+  "reasoning_effort": "none",
+  "run_signature": "6dc5e9eea42b858dc2debff65d47a72f37bb7f45f5caafa899c4c374b4b1a203",
+  "source_changes_sha256": "b7d1e56ffac1b83796adff103301fc5ff29647bb797fdf66e21406fdceaae8f9",
+  "status": "COMPLETE",
+  "summary": {
+    "evaluated_target_pairs": 54,
+    "impacted_element_exact_match_rate": 0.759259,
+    "impacted_element_macro_f1": 0.759259,
+    "impacted_element_macro_precision": 0.759259,
+    "impacted_element_macro_recall": 0.759259,
+    "model_change_exact_match_rate": 0.759259,
+    "model_change_macro_f1": 0.787037,
+    "operation_exact_match_rate": 0.814815,
+    "operation_macro_f1": 0.814815,
+    "operation_macro_precision": 0.814815,
+    "operation_macro_recall": 0.814815
+  }
+}

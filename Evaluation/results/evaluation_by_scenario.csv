@@ -1,0 +1,13 @@
+﻿scenario_id,evaluated_target_pairs,impacted_element_macro_precision,impacted_element_macro_recall,impacted_element_macro_f1,impacted_element_exact_match_rate,operation_macro_precision,operation_macro_recall,operation_macro_f1,operation_exact_match_rate,model_change_exact_match_rate
+BI-T01,5,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+BI-T05,5,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8
+BI-T07,5,0.6,0.6,0.6,0.6,0.8,0.8,0.8,0.8,0.6
+BI-T09,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+BI-T11,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+BI-T12,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CS-T01,5,0.4,0.4,0.4,0.4,0.6,0.6,0.6,0.6,0.4
+CS-T04,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CS-T05,5,0.6,0.6,0.6,0.6,0.8,0.8,0.8,0.8,0.6
+CS-T07,2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CS-T10,5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+CS-T12,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

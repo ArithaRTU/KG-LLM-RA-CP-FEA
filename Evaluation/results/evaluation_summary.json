@@ -1,0 +1,13 @@
+{
+  "evaluated_target_pairs": 54,
+  "impacted_element_exact_match_rate": 0.759259,
+  "impacted_element_macro_f1": 0.759259,
+  "impacted_element_macro_precision": 0.759259,
+  "impacted_element_macro_recall": 0.759259,
+  "model_change_exact_match_rate": 0.759259,
+  "model_change_macro_f1": 0.787037,
+  "operation_exact_match_rate": 0.814815,
+  "operation_macro_f1": 0.814815,
+  "operation_macro_precision": 0.814815,
+  "operation_macro_recall": 0.814815
+}
